@@ -65,7 +65,3 @@ This project leverages **Mask R-CNN** to detect food items from images and calcu
 
 ## License
 This project is licensed under the MIT License.
-
----
-
-You can adjust the sections based on your project's specific details.
